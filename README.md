@@ -7,7 +7,6 @@ A simple Python tool to resolve a domain name to its IPv4 or IPv6 address using 
 - Resolve IPv4 addresses using `gethostbyname()`
 - Resolve IPv6 addresses using `getaddrinfo()`
 - User-friendly CLI input
-- Error handling for invalid domains
 
 ## 🛠️ Technologies Used
 
