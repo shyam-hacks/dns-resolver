@@ -16,6 +16,6 @@ A simple Python tool to resolve a domain name to its IPv4 or IPv6 address using 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dns-resolver.git
+git clone https://github.com/shyam-hacks/dns-resolver.git
 cd dns-resolver
 python3 dns_resolver.py
